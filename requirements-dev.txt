@@ -1,0 +1,4 @@
+# Training and prediction need only requirements.txt.
+# The exploration and comparison plots also need matplotlib.
+-r requirements.txt
+matplotlib>=3.7,<4

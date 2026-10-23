@@ -1,0 +1,6 @@
+# Supported Python versions: 3.9 through 3.13 (Python 3.11 recommended).
+numpy>=1.24,<3
+pandas>=2.0,<3
+scipy>=1.10,<2
+openpyxl>=3.1,<4
+scikit-learn==1.6.1
